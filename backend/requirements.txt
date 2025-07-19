@@ -1,0 +1,7 @@
+Flask
+flask-cors
+gunicorn==21.2.0
+numpy
+pandas
+scikit-learn
+python-dotenv==1.0.0  # Recommended for environment variables
